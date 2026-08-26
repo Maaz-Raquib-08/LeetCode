@@ -20,6 +20,7 @@ leetcode solution
 | ------- |
 | [0007-reverse-integer](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0009-palindrome-number) |
+| [1518-water-bottles](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1518-water-bottles) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -40,6 +41,7 @@ leetcode solution
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1518-water-bottles) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
