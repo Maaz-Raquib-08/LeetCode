@@ -29,6 +29,7 @@ leetcode solution
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -47,4 +48,8 @@ leetcode solution
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
