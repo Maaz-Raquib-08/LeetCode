@@ -7,6 +7,7 @@ leetcode solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0011-container-with-most-water) |
 | [3452-sum-of-good-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3452-sum-of-good-numbers) |
 ## Hash Table
 |  |
@@ -17,4 +18,12 @@ leetcode solution
 | ------- |
 | [0007-reverse-integer](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
