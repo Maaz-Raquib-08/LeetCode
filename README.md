@@ -9,6 +9,7 @@ leetcode solution
 | [0001-two-sum](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3452-sum-of-good-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3452-sum-of-good-numbers) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ leetcode solution
 | ------- |
 | [0007-reverse-integer](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0009-palindrome-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -33,5 +35,14 @@ leetcode solution
 ## Number Theory
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Simulation
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
