@@ -10,6 +10,7 @@ leetcode solution
 | [0011-container-with-most-water](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3452-sum-of-good-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3452-sum-of-good-numbers) |
 ## Hash Table
@@ -44,6 +45,7 @@ leetcode solution
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1518-water-bottles) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
@@ -53,6 +55,7 @@ leetcode solution
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0125-valid-palindrome) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
