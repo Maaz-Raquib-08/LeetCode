@@ -6,5 +6,10 @@ leetcode solution
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0001-two-sum) |
 | [3452-sum-of-good-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3452-sum-of-good-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
