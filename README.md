@@ -66,6 +66,7 @@ leetcode solution
 | [0796-rotate-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0796-rotate-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2810-faulty-keyboard](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2810-faulty-keyboard) |
+| [3856-trim-trailing-vowels](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3856-trim-trailing-vowels) |
 ## Divide and Conquer
 |  |
 | ------- |
