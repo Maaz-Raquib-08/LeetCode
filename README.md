@@ -38,6 +38,7 @@ leetcode solution
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
@@ -63,6 +64,7 @@ leetcode solution
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0796-rotate-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2810-faulty-keyboard](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2810-faulty-keyboard) |
