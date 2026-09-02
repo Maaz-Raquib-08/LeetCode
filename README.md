@@ -18,6 +18,7 @@ leetcode solution
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3452-sum-of-good-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3452-sum-of-good-numbers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ leetcode solution
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
