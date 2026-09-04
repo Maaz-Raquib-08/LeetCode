@@ -21,6 +21,7 @@ leetcode solution
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3452-sum-of-good-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -112,4 +113,8 @@ leetcode solution
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1748-sum-of-unique-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
