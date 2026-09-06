@@ -41,6 +41,7 @@ leetcode solution
 | ------- |
 | [0007-reverse-integer](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1518-water-bottles) |
@@ -118,6 +119,7 @@ leetcode solution
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Counting
 |  |
@@ -128,4 +130,8 @@ leetcode solution
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3903-smallest-stable-index-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
