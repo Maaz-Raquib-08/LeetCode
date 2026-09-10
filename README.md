@@ -27,6 +27,7 @@ leetcode solution
 | [3875-construct-uniform-parity-array-i](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3978-unique-middle-element](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ leetcode solution
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [3978-unique-middle-element](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3978-unique-middle-element) |
 ## Prefix Sum
 |  |
 | ------- |
