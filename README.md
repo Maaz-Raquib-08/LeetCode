@@ -145,4 +145,8 @@ leetcode solution
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
