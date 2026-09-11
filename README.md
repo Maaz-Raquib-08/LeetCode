@@ -48,6 +48,7 @@ leetcode solution
 | [0189-rotate-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1518-water-bottles) |
+| [1903-largest-odd-number-in-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -68,6 +69,7 @@ leetcode solution
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -93,6 +95,7 @@ leetcode solution
 | [0345-reverse-vowels-of-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0796-rotate-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2810-faulty-keyboard](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2810-faulty-keyboard) |
 | [3856-trim-trailing-vowels](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3856-trim-trailing-vowels) |
