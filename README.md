@@ -15,6 +15,7 @@ leetcode solution
 | [0189-rotate-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1534-count-good-triplets](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1534-count-good-triplets) |
@@ -35,6 +36,7 @@ leetcode solution
 | ------- |
 | [0001-two-sum](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0041-first-missing-positive) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2404-most-frequent-even-element](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -114,6 +116,7 @@ leetcode solution
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Heap (Priority Queue)
 |  |
