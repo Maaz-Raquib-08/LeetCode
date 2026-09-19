@@ -42,6 +42,7 @@ leetcode solution
 | ------- |
 | [0001-two-sum](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0041-first-missing-positive) |
+| [0389-find-the-difference](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -116,6 +117,7 @@ leetcode solution
 | [0125-valid-palindrome](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0796-rotate-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -133,6 +135,7 @@ leetcode solution
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0389-find-the-difference](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3731-find-missing-elements) |
@@ -183,6 +186,7 @@ leetcode solution
 | ------- |
 | [0067-add-binary](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
