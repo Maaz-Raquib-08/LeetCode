@@ -194,6 +194,7 @@ leetcode solution
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -202,4 +203,8 @@ leetcode solution
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
