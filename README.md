@@ -42,6 +42,7 @@ leetcode solution
 | ------- |
 | [0001-two-sum](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0389-find-the-difference](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -80,6 +81,7 @@ leetcode solution
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -194,6 +196,7 @@ leetcode solution
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Pigeonhole Principle
 |  |
@@ -202,6 +205,7 @@ leetcode solution
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
