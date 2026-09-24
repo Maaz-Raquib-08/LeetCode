@@ -31,6 +31,7 @@ leetcode solution
 | [2784-check-if-array-is-good](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3452-sum-of-good-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3452-sum-of-good-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
@@ -71,6 +72,7 @@ leetcode solution
 | [1903-largest-odd-number-in-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3870-count-commas-in-range) |
