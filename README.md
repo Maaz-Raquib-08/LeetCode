@@ -24,6 +24,7 @@ leetcode solution
 | [1534-count-good-triplets](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1534-count-good-triplets) |
 | [1748-sum-of-unique-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2109-adding-spaces-to-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
