@@ -210,6 +210,7 @@ leetcode solution
 | [0141-linked-list-cycle](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -224,4 +225,5 @@ leetcode solution
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
