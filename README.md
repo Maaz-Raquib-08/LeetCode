@@ -20,6 +20,7 @@ leetcode solution
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1534-count-good-triplets](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1534-count-good-triplets) |
 | [1748-sum-of-unique-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -180,6 +181,7 @@ leetcode solution
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0704-binary-search) |
 ## Counting
 |  |
 | ------- |
