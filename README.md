@@ -130,6 +130,7 @@ leetcode solution
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -240,10 +241,12 @@ leetcode solution
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
