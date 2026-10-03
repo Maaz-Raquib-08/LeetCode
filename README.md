@@ -132,6 +132,7 @@ leetcode solution
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -245,12 +246,14 @@ leetcode solution
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
@@ -260,4 +263,8 @@ leetcode solution
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
