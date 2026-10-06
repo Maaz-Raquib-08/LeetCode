@@ -109,6 +109,7 @@ leetcode solution
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Number Theory
 |  |
@@ -143,6 +144,7 @@ leetcode solution
 | [0709-to-lower-case](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -256,6 +258,7 @@ leetcode solution
 | [0032-longest-valid-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -263,6 +266,7 @@ leetcode solution
 | [0020-valid-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
