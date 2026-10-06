@@ -97,6 +97,7 @@ leetcode solution
 | [0125-valid-palindrome](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -155,11 +156,13 @@ leetcode solution
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -225,6 +228,7 @@ leetcode solution
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -272,4 +276,8 @@ leetcode solution
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
