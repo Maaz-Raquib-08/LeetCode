@@ -37,6 +37,7 @@ leetcode solution
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2404-most-frequent-even-element](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3452-sum-of-good-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3452-sum-of-good-numbers) |
@@ -195,6 +196,7 @@ leetcode solution
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1534-count-good-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## String Matching
 |  |
 | ------- |
