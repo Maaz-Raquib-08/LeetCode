@@ -16,6 +16,7 @@ leetcode solution
 | [0075-sort-colors](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -209,6 +210,7 @@ leetcode solution
 | [0035-search-insert-position](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0704-binary-search) |
