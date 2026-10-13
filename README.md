@@ -31,6 +31,7 @@ leetcode solution
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1929-concatenation-of-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
@@ -128,6 +129,7 @@ leetcode solution
 | ------- |
 | [0067-add-binary](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0067-add-binary) |
 | [1518-water-bottles](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1518-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
