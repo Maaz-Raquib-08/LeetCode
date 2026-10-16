@@ -45,6 +45,7 @@ leetcode solution
 | [3452-sum-of-good-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -118,6 +119,7 @@ leetcode solution
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Number Theory
 |  |
 | ------- |
@@ -183,6 +185,7 @@ leetcode solution
 | [0912-sort-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2784-check-if-array-is-good](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
