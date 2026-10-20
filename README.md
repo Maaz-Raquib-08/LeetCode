@@ -89,6 +89,7 @@ leetcode solution
 | [1518-water-bottles](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1518-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2235-add-two-integers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
