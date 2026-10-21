@@ -171,6 +171,7 @@ leetcode solution
 | [3498-reverse-degree-of-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3856-trim-trailing-vowels) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
