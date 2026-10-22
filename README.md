@@ -83,6 +83,7 @@ leetcode solution
 | [0067-add-binary](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
