@@ -46,6 +46,7 @@ leetcode solution
 | [3005-count-elements-with-maximum-frequency](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3452-sum-of-good-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3731-find-missing-elements) |
@@ -257,6 +258,7 @@ leetcode solution
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0389-find-the-difference) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Linked List
 |  |
 | ------- |
