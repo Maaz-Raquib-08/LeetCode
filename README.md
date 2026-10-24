@@ -169,6 +169,7 @@ leetcode solution
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2810-faulty-keyboard](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3798-largest-even-number) |
