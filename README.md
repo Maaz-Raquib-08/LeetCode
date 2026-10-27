@@ -27,6 +27,7 @@ leetcode solution
 | [0704-binary-search](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0912-sort-an-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1534-count-good-triplets](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1534-count-good-triplets) |
 | [1748-sum-of-unique-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -276,6 +277,7 @@ leetcode solution
 | [0203-remove-linked-list-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -303,6 +305,7 @@ leetcode solution
 | [0234-palindrome-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -352,4 +355,5 @@ leetcode solution
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
