@@ -26,6 +26,7 @@ leetcode solution
 | [0540-single-element-in-a-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0912-sort-an-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -120,6 +121,7 @@ leetcode solution
 | [0234-palindrome-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0905-sort-array-by-parity](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0917-reverse-only-letters) |
 | [2109-adding-spaces-to-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -197,6 +199,7 @@ leetcode solution
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0905-sort-array-by-parity](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
