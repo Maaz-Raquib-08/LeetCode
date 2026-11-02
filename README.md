@@ -25,6 +25,7 @@ leetcode solution
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0724-find-pivot-index) |
@@ -92,6 +93,7 @@ leetcode solution
 | [0263-ugly-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1518-water-bottles) |
@@ -204,6 +206,7 @@ leetcode solution
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
