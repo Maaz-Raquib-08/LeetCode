@@ -21,6 +21,7 @@ leetcode solution
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -70,6 +71,7 @@ leetcode solution
 | [0041-first-missing-positive](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0229-majority-element-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -205,6 +207,7 @@ leetcode solution
 | [0075-sort-colors](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -255,6 +258,7 @@ leetcode solution
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -373,4 +377,8 @@ leetcode solution
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
