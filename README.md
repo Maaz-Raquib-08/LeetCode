@@ -90,6 +90,7 @@ leetcode solution
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0067-add-binary) |
@@ -293,6 +294,7 @@ leetcode solution
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -317,6 +319,7 @@ leetcode solution
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0206-reverse-linked-list) |
