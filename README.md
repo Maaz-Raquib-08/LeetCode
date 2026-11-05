@@ -34,6 +34,7 @@ leetcode solution
 | [0912-sort-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0912-sort-an-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1534-count-good-triplets](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1534-count-good-triplets) |
 | [1748-sum-of-unique-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -133,6 +134,7 @@ leetcode solution
 | [0345-reverse-vowels-of-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2109-adding-spaces-to-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
@@ -217,6 +219,7 @@ leetcode solution
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0912-sort-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2784-check-if-array-is-good](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -257,6 +260,7 @@ leetcode solution
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
