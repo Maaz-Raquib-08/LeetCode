@@ -290,6 +290,7 @@ leetcode solution
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0389-find-the-difference) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Linked List
 |  |
