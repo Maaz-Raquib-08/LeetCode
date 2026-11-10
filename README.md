@@ -79,6 +79,7 @@ leetcode solution
 | [1015-smallest-integer-divisible-by-k](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2784-check-if-array-is-good](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -193,6 +194,7 @@ leetcode solution
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2810-faulty-keyboard](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3798-largest-even-number) |
@@ -268,6 +270,7 @@ leetcode solution
 | ------- |
 | [0229-majority-element-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -291,6 +294,7 @@ leetcode solution
 | [0371-sum-of-two-integers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0389-find-the-difference) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [2351-first-letter-to-appear-twice](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Linked List
 |  |
