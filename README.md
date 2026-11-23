@@ -35,6 +35,7 @@ leetcode solution
 | [0912-sort-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0912-sort-an-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1534-count-good-triplets](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1534-count-good-triplets) |
 | [1748-sum-of-unique-elements](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -104,6 +105,7 @@ leetcode solution
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1518-water-bottles](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1518-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -291,6 +293,7 @@ leetcode solution
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Newton's Method
 |  |
@@ -406,4 +409,12 @@ leetcode solution
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/0229-majority-element-ii) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
