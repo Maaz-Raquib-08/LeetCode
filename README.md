@@ -111,6 +111,7 @@ leetcode solution
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [3360-stone-removal-game](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -172,6 +173,7 @@ leetcode solution
 | [2221-find-triangular-sum-of-an-array](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/2810-faulty-keyboard) |
+| [3360-stone-removal-game](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Maaz-Raquib-08/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
 |  |
